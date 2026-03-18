@@ -10,6 +10,7 @@ class MyStack {
     
     public void push(int x) {
         q1.offer(x);
+        while(!q1.isEmpty())
         q2.offer(q1.poll());
         st.push(x);
         q1.offer(q2.poll());
