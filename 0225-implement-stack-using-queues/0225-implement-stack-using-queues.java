@@ -7,7 +7,6 @@ class MyStack {
     }
     
     public void push(int x) {
-        q1.offer(x);
         while(!q1.isEmpty())
         q2.offer(q1.poll());
         q1.offer(x);
