@@ -13,6 +13,10 @@ class Solution {
         ListNode dummy=new ListNode(0);
         ListNode temp=dummy;
         ListNode c1=list1,c2=list2;
+        if(c1==null)
+        return c2;
+        else if(c2==null)
+        return c1;
         while(c1!=null && c2!=null) {
             if(c1.val>c2.val) {
                 temp.next=c2;
