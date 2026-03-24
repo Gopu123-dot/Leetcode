@@ -51,7 +51,7 @@ class MyLinkedList {
     }
     
     public void addAtIndex(int index, int val) {
-        if(index<0 || index>=c) 
+        if(index<0 || index>c) 
         return;
         Node nn=new Node(val);
         if(index==0) {
