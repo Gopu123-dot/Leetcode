@@ -13,8 +13,8 @@ class Solution {
         if(head==null || head.next==null)
         return head;
         ListNode temp=head;
-        int c=1;
-        while(temp.next!=null) {
+        int c=0;
+        while(temp!=null) {
             c++;
             temp=temp.next;
         }
