@@ -106,9 +106,8 @@ class MyLinkedList {
             for(int i=0;i<index-1;i++) {
                 temp=temp.next;
             }
-            Node del = temp.next;
-            temp.next = del.next;
-            del.next.prev = temp;   
+            temp.next = temp.next.next;
+            temp.next.prev = temp;   
             c--; 
         }
     }
