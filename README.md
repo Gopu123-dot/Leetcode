@@ -76,6 +76,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/Gopu123-dot/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gopu123-dot/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Gopu123-dot/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1472-design-browser-history](https://github.com/Gopu123-dot/Leetcode/tree/main/1472-design-browser-history/) | Medium |
@@ -114,4 +115,8 @@
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Gopu123-dot/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopu123-dot/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Gopu123-dot/Leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
