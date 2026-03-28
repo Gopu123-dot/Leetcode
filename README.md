@@ -37,6 +37,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Gopu123-dot/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/Gopu123-dot/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopu123-dot/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Gopu123-dot/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@
 | [0682-baseball-game](https://github.com/Gopu123-dot/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1472-design-browser-history](https://github.com/Gopu123-dot/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopu123-dot/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Gopu123-dot/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Gopu123-dot/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopu123-dot/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Gopu123-dot/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
