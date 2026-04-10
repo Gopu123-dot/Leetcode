@@ -59,6 +59,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Gopu123-dot/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopu123-dot/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -81,6 +82,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0051-n-queens](https://github.com/Gopu123-dot/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0088-merge-sorted-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/Gopu123-dot/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gopu123-dot/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Gopu123-dot/Leetcode/tree/main/0682-baseball-game/) | Easy |
@@ -115,6 +117,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gopu123-dot/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
