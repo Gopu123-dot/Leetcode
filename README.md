@@ -86,6 +86,7 @@
 | [0283-move-zeroes](https://github.com/Gopu123-dot/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gopu123-dot/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Gopu123-dot/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0724-find-pivot-index](https://github.com/Gopu123-dot/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1472-design-browser-history](https://github.com/Gopu123-dot/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopu123-dot/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Gopu123-dot/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -138,4 +139,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Gopu123-dot/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/Gopu123-dot/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
