@@ -8,6 +8,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Gopu123-dot/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/Gopu123-dot/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Gopu123-dot/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/Gopu123-dot/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/Gopu123-dot/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopu123-dot/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -64,6 +65,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopu123-dot/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Gopu123-dot/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Gopu123-dot/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -130,6 +132,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Gopu123-dot/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Gopu123-dot/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopu123-dot/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Gopu123-dot/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Backtracking
@@ -141,6 +144,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Gopu123-dot/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Gopu123-dot/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
