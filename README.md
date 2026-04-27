@@ -64,6 +64,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Gopu123-dot/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Gopu123-dot/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopu123-dot/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -158,6 +159,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Gopu123-dot/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0125-valid-palindrome](https://github.com/Gopu123-dot/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Gopu123-dot/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1544-make-the-string-great](https://github.com/Gopu123-dot/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Gopu123-dot/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
