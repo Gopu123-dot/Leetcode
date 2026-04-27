@@ -90,6 +90,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Gopu123-dot/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0051-n-queens](https://github.com/Gopu123-dot/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Gopu123-dot/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -159,6 +160,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Gopu123-dot/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/Gopu123-dot/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/Gopu123-dot/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Gopu123-dot/Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -181,4 +183,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Gopu123-dot/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Gopu123-dot/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
