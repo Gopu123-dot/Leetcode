@@ -2,18 +2,22 @@ class Solution {
     public int timeRequiredToBuy(int[] tickets, int k) {
         Queue <int []> q=new LinkedList<>();
         for(int i=0;i<tickets.length;i++) {
-            q.offer(new int[]{tickets[i],i});
+            q.offer(new int[]{i,tickets[i]});
         }
         int t=0;
         while(!q.isEmpty()) {
-            int curr[]=q.poll();
-            curr[0]--;
+            int []person=q.poll();
+            int ind=person[0];
+            int rem=person[1];
+            rem--;
             t++;
-            if(curr[1]==k && curr[0]==0) {
-                return t;
+            if(rem==0) {
+                if(ind==k) {
+                    return t;
+                }
             }
-            if(curr[0]>0) {
-                q.offer(curr);
+            else {
+                q.offer(new int[]{ind,rem});
             }
         }
         return t;
