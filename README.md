@@ -82,6 +82,7 @@
 | [0141-linked-list-cycle](https://github.com/Gopu123-dot/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopu123-dot/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/Gopu123-dot/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Gopu123-dot/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +181,7 @@
 | [1544-make-the-string-great](https://github.com/Gopu123-dot/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Gopu123-dot/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Gopu123-dot/Leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Gopu123-dot/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
