@@ -141,6 +141,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gopu123-dot/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Gopu123-dot/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,8 +213,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gopu123-dot/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Gopu123-dot/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gopu123-dot/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Gopu123-dot/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
