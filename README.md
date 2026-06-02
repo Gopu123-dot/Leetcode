@@ -191,6 +191,7 @@
 | [0344-reverse-string](https://github.com/Gopu123-dot/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0649-dota2-senate](https://github.com/Gopu123-dot/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Gopu123-dot/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Gopu123-dot/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1544-make-the-string-great](https://github.com/Gopu123-dot/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Gopu123-dot/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Gopu123-dot/Leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -207,6 +208,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Gopu123-dot/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Gopu123-dot/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Gopu123-dot/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Gopu123-dot/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
