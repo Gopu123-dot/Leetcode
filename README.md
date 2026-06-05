@@ -53,6 +53,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Gopu123-dot/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gopu123-dot/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Gopu123-dot/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopu123-dot/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
