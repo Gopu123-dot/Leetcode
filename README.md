@@ -170,6 +170,7 @@
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Gopu123-dot/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Gopu123-dot/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0319-bulb-switcher](https://github.com/Gopu123-dot/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gopu123-dot/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Gopu123-dot/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Sorting
@@ -303,4 +304,8 @@
 | ------- | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gopu123-dot/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gopu123-dot/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/Gopu123-dot/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
