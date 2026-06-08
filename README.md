@@ -234,6 +234,7 @@
 | [0198-house-robber](https://github.com/Gopu123-dot/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Gopu123-dot/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Gopu123-dot/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0338-counting-bits](https://github.com/Gopu123-dot/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0518-coin-change-ii](https://github.com/Gopu123-dot/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Gopu123-dot/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gopu123-dot/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -317,4 +318,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/Gopu123-dot/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/Gopu123-dot/Leetcode/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
