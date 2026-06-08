@@ -87,6 +87,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Gopu123-dot/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Gopu123-dot/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gopu123-dot/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopu123-dot/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Gopu123-dot/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Gopu123-dot/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gopu123-dot/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -195,6 +197,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/Gopu123-dot/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopu123-dot/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Gopu123-dot/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Gopu123-dot/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Gopu123-dot/Leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
