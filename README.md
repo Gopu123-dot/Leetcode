@@ -4,6 +4,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Gopu123-dot/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Gopu123-dot/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gopu123-dot/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0143-reorder-list/) | Medium |
@@ -208,6 +209,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Gopu123-dot/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Gopu123-dot/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Gopu123-dot/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/Gopu123-dot/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/Gopu123-dot/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
