@@ -341,5 +341,6 @@
 | [0620-not-boring-movies](https://github.com/Gopu123-dot/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/Gopu123-dot/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/Gopu123-dot/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/Gopu123-dot/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Gopu123-dot/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
