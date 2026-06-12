@@ -335,6 +335,7 @@
 | [0196-delete-duplicate-emails](https://github.com/Gopu123-dot/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Gopu123-dot/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Gopu123-dot/Leetcode/tree/main/0577-employee-bonus/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Gopu123-dot/Leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0626-exchange-seats](https://github.com/Gopu123-dot/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Gopu123-dot/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
