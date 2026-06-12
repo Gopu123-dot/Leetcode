@@ -324,4 +324,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/Gopu123-dot/Leetcode/tree/main/0338-counting-bits/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Gopu123-dot/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
