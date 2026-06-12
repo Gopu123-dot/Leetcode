@@ -330,6 +330,7 @@
 | [0175-combine-two-tables](https://github.com/Gopu123-dot/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/Gopu123-dot/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Gopu123-dot/Leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0182-duplicate-emails](https://github.com/Gopu123-dot/Leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0626-exchange-seats](https://github.com/Gopu123-dot/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Gopu123-dot/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
