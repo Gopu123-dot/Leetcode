@@ -358,6 +358,7 @@
 | [1148-article-views-i](https://github.com/Gopu123-dot/Leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/Gopu123-dot/Leetcode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1179-reformat-department-table](https://github.com/Gopu123-dot/Leetcode/tree/main/1179-reformat-department-table/) | Easy |
+| [1193-monthly-transactions-i](https://github.com/Gopu123-dot/Leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Gopu123-dot/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Gopu123-dot/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Gopu123-dot/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
