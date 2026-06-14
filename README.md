@@ -345,6 +345,7 @@
 | [0607-sales-person](https://github.com/Gopu123-dot/Leetcode/tree/main/0607-sales-person/) | Easy |
 | [0608-tree-node](https://github.com/Gopu123-dot/Leetcode/tree/main/0608-tree-node/) | Medium |
 | [0610-triangle-judgement](https://github.com/Gopu123-dot/Leetcode/tree/main/0610-triangle-judgement/) | Easy |
+| [0619-biggest-single-number](https://github.com/Gopu123-dot/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Gopu123-dot/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/Gopu123-dot/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/Gopu123-dot/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
