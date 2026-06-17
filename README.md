@@ -369,6 +369,7 @@
 | [1321-restaurant-growth](https://github.com/Gopu123-dot/Leetcode/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Gopu123-dot/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Gopu123-dot/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/Gopu123-dot/Leetcode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1683-invalid-tweets](https://github.com/Gopu123-dot/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Gopu123-dot/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/Gopu123-dot/Leetcode/tree/main/1934-confirmation-rate/) | Medium |
