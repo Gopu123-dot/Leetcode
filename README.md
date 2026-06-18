@@ -368,6 +368,7 @@
 | [1280-students-and-examinations](https://github.com/Gopu123-dot/Leetcode/tree/main/1280-students-and-examinations/) | Easy |
 | [1321-restaurant-growth](https://github.com/Gopu123-dot/Leetcode/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Gopu123-dot/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/Gopu123-dot/Leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Gopu123-dot/Leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Gopu123-dot/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Gopu123-dot/Leetcode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
