@@ -137,6 +137,7 @@
 | [1472-design-browser-history](https://github.com/Gopu123-dot/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gopu123-dot/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopu123-dot/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Gopu123-dot/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Gopu123-dot/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Gopu123-dot/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gopu123-dot/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
@@ -247,6 +248,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Gopu123-dot/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/Gopu123-dot/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Gopu123-dot/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gopu123-dot/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
