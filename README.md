@@ -96,6 +96,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopu123-dot/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/Gopu123-dot/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Gopu123-dot/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gopu123-dot/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/Gopu123-dot/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Gopu123-dot/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gopu123-dot/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gopu123-dot/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +154,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Gopu123-dot/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Gopu123-dot/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gopu123-dot/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +165,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gopu123-dot/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gopu123-dot/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,6 +254,7 @@
 | [0724-find-pivot-index](https://github.com/Gopu123-dot/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Gopu123-dot/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gopu123-dot/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gopu123-dot/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,4 +387,12 @@
 | [1934-confirmation-rate](https://github.com/Gopu123-dot/Leetcode/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Gopu123-dot/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Gopu123-dot/Leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gopu123-dot/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gopu123-dot/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
