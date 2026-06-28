@@ -139,6 +139,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gopu123-dot/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopu123-dot/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Gopu123-dot/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gopu123-dot/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Gopu123-dot/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Gopu123-dot/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gopu123-dot/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
@@ -195,6 +196,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/Gopu123-dot/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Gopu123-dot/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gopu123-dot/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +262,7 @@
 | ------- | ------- |
 | [0649-dota2-senate](https://github.com/Gopu123-dot/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Gopu123-dot/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gopu123-dot/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
