@@ -224,6 +224,7 @@
 | [0072-edit-distance](https://github.com/Gopu123-dot/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/Gopu123-dot/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Gopu123-dot/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/Gopu123-dot/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0649-dota2-senate](https://github.com/Gopu123-dot/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Gopu123-dot/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Gopu123-dot/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -248,6 +249,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Gopu123-dot/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Gopu123-dot/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/Gopu123-dot/Leetcode/tree/main/0338-counting-bits/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/Gopu123-dot/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Gopu123-dot/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Gopu123-dot/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gopu123-dot/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
