@@ -116,6 +116,7 @@
 | [0051-n-queens](https://github.com/Gopu123-dot/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Gopu123-dot/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Gopu123-dot/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/Gopu123-dot/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Gopu123-dot/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopu123-dot/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -242,6 +243,7 @@
 | [0022-generate-parentheses](https://github.com/Gopu123-dot/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Gopu123-dot/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Gopu123-dot/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Gopu123-dot/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Gopu123-dot/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Gopu123-dot/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Gopu123-dot/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
@@ -266,6 +268,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Gopu123-dot/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0649-dota2-senate](https://github.com/Gopu123-dot/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Gopu123-dot/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gopu123-dot/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
