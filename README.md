@@ -95,6 +95,7 @@
 | [0141-linked-list-cycle](https://github.com/Gopu123-dot/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopu123-dot/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/Gopu123-dot/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopu123-dot/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Gopu123-dot/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gopu123-dot/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Recursion
@@ -228,6 +229,7 @@
 | [0649-dota2-senate](https://github.com/Gopu123-dot/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Gopu123-dot/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Gopu123-dot/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopu123-dot/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gopu123-dot/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1544-make-the-string-great](https://github.com/Gopu123-dot/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Gopu123-dot/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -331,6 +333,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopu123-dot/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gopu123-dot/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gopu123-dot/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Brainteaser
