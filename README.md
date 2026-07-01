@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/Gopu123-dot/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gopu123-dot/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0224-basic-calculator](https://github.com/Gopu123-dot/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/Gopu123-dot/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Gopu123-dot/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -107,6 +108,7 @@
 | [0044-wildcard-matching](https://github.com/Gopu123-dot/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0143-reorder-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0224-basic-calculator](https://github.com/Gopu123-dot/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -189,6 +191,7 @@
 | [0048-rotate-image](https://github.com/Gopu123-dot/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Gopu123-dot/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Gopu123-dot/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0224-basic-calculator](https://github.com/Gopu123-dot/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0319-bulb-switcher](https://github.com/Gopu123-dot/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gopu123-dot/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Gopu123-dot/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -231,6 +234,7 @@
 | [0044-wildcard-matching](https://github.com/Gopu123-dot/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Gopu123-dot/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/Gopu123-dot/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0224-basic-calculator](https://github.com/Gopu123-dot/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0344-reverse-string](https://github.com/Gopu123-dot/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Gopu123-dot/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0649-dota2-senate](https://github.com/Gopu123-dot/Leetcode/tree/main/0649-dota2-senate/) | Medium |
