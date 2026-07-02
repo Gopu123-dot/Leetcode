@@ -120,6 +120,7 @@
 | [0039-combination-sum](https://github.com/Gopu123-dot/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Gopu123-dot/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Gopu123-dot/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/Gopu123-dot/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Gopu123-dot/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Gopu123-dot/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Gopu123-dot/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -233,6 +234,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Gopu123-dot/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Gopu123-dot/Leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/Gopu123-dot/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Gopu123-dot/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Gopu123-dot/Leetcode/tree/main/0078-subsets/) | Medium |
 ## String
