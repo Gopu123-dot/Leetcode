@@ -127,6 +127,7 @@
 | [0055-jump-game](https://github.com/Gopu123-dot/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Gopu123-dot/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Gopu123-dot/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0078-subsets](https://github.com/Gopu123-dot/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopu123-dot/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Gopu123-dot/Leetcode/tree/main/0198-house-robber/) | Medium |
@@ -233,6 +234,7 @@
 | [0022-generate-parentheses](https://github.com/Gopu123-dot/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Gopu123-dot/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/Gopu123-dot/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/Gopu123-dot/Leetcode/tree/main/0078-subsets/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -373,6 +375,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Gopu123-dot/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0338-counting-bits](https://github.com/Gopu123-dot/Leetcode/tree/main/0338-counting-bits/) | Easy |
 ## Database
 | Problem Name | Difficulty |
