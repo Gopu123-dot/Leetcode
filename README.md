@@ -117,6 +117,7 @@
 | [0014-longest-common-prefix](https://github.com/Gopu123-dot/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Gopu123-dot/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0039-combination-sum](https://github.com/Gopu123-dot/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Gopu123-dot/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Gopu123-dot/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Gopu123-dot/Leetcode/tree/main/0048-rotate-image/) | Medium |
@@ -230,6 +231,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Gopu123-dot/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/Gopu123-dot/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/Gopu123-dot/Leetcode/tree/main/0051-n-queens/) | Hard |
 ## String
 | Problem Name | Difficulty |
