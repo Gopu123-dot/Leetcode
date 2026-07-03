@@ -62,6 +62,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Gopu123-dot/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gopu123-dot/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Gopu123-dot/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0143-reorder-list/) | Medium |
@@ -173,6 +174,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gopu123-dot/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Gopu123-dot/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gopu123-dot/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gopu123-dot/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Heap (Priority Queue)
@@ -317,6 +319,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gopu123-dot/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gopu123-dot/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gopu123-dot/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Gopu123-dot/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Gopu123-dot/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -326,6 +329,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gopu123-dot/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gopu123-dot/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gopu123-dot/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Gopu123-dot/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Gopu123-dot/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Gopu123-dot/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -453,4 +457,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Gopu123-dot/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gopu123-dot/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
