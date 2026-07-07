@@ -107,6 +107,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopu123-dot/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Gopu123-dot/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Gopu123-dot/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopu123-dot/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Gopu123-dot/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gopu123-dot/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -154,6 +155,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Gopu123-dot/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Gopu123-dot/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0414-third-maximum-number](https://github.com/Gopu123-dot/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0518-coin-change-ii](https://github.com/Gopu123-dot/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gopu123-dot/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Gopu123-dot/Leetcode/tree/main/0682-baseball-game/) | Easy |
@@ -228,6 +230,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Gopu123-dot/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/Gopu123-dot/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gopu123-dot/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Gopu123-dot/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Gopu123-dot/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
