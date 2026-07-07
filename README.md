@@ -107,6 +107,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopu123-dot/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Gopu123-dot/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Gopu123-dot/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0290-word-pattern](https://github.com/Gopu123-dot/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Gopu123-dot/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopu123-dot/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Gopu123-dot/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -270,6 +271,7 @@
 | [0125-valid-palindrome](https://github.com/Gopu123-dot/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Gopu123-dot/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0224-basic-calculator](https://github.com/Gopu123-dot/Leetcode/tree/main/0224-basic-calculator/) | Hard |
+| [0290-word-pattern](https://github.com/Gopu123-dot/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Gopu123-dot/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Gopu123-dot/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0649-dota2-senate](https://github.com/Gopu123-dot/Leetcode/tree/main/0649-dota2-senate/) | Medium |
