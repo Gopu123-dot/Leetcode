@@ -1,8 +1,11 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Arrays.sort(nums);  
-        for (int i=0;i<nums.length-1;i++) {
-            if(nums[i]==nums[i+1]) 
+        HashMap<Integer,Integer>h=new HashMap<>();
+        for(int i=0;i<nums.length;i++) {
+            h.put(nums[i],h.getOrDefault(nums[i],0)+1);
+        }
+        for(int n:h.values()) {
+            if(n>=2)
             return true;
         }
         return false;
